@@ -39,6 +39,16 @@ To link a CSS stylesheet to an HTML file, follow these steps:
 ---
 4. **Check the Link**:
    - After linking, check your HTML file in a browser to make sure the CSS styles are applied correctly. If they’re not showing, double-check the `href` path to ensure it matches the location of your CSS file.
+---
+
+**Preview**
+
+Go to terminal below and exexute the following commands
+
+. npm i -g http-server 
+. http-server
+
+---
 
 This approach keeps your CSS code separate from HTML, which is best practice for organizing and maintaining your code.
 Here's a table that outlines how to create **classes**, **IDs**, and **elements** in HTML, along with how to reference each in CSS.
